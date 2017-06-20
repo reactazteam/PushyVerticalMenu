@@ -1,10 +1,9 @@
 # README #
 
-
 ### Pushy Vertical Menu - Animation Effect ###
 
-* Quick summary
-* This is just a simple project to show you the idea how to implement a menu by yourself.
+* The idea for making pushy vertical menu with React Native. This is just a simple project to show you the idea how to implement a menu by yourself.
+* It helps you create the pushy vertical menu quickly and professionally. It’s easy to customize and develop. 
 * Version 1.0
 * ![Demo Gif](http://g.recordit.co/cmgxlCjU7Y.gif)
 
